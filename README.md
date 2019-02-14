@@ -36,7 +36,7 @@ AWS CodeStar user guide.
 
 What Do I Do Next?
 ------------------
-
+hello world
 You can start making changes to the sample static HTML website. We suggest making a
 small change to /webpage/index.html first, so you can see how changes pushed to your
 project's repository are automatically picked up by your project pipeline and deployed
